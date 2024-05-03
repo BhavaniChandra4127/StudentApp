@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background (to control height) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Background color to match the EditText -->
+        </shape>
+    </item>
+    <!-- Underline -->
+    <item android:top="30dp" android:right="-2dp" android:left="-2dp"> <!-- Adjust padding here -->
+        <shape android:shape="line">
+            <stroke
+                android:width="2dp"
+                android:color="#000000" /> <!-- Underline color and thickness -->
+        </shape>
+    </item>
+</layer-list>

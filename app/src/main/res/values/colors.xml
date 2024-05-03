@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="submit_button_default">#4CAF50</color>
+    <color name="reset_button_default">#F44336</color>
+    <color name="submit_button_hover">#388E3C</color>
+    <color name="reset_button_hover">#D32F2F</color>
+</resources>
